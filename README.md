@@ -1,5 +1,5 @@
 # Nextflix 
-A simple Netflix Clone made using [Next.js](https://nextjs.org/) ⚡
+A simple Netflix Clone made using [React.js](https://react.dev/learn) ⚡
 
 Currently, I have implemented the basic UI with media details fetch functionality.
 
@@ -15,12 +15,12 @@ Please leave a ⭐ as motivation if you liked the implementation 😄
 <br />
 
 ## Built with
-* [react.js](https://nextjs.org/)
+* [React.js](https://react.dev/learn)
 * [TMDB API](https://www.themoviedb.org/)
 
 
 ## Running the project
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [React.js](https://react.dev/learn) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 In the project directory, you can run:
 
