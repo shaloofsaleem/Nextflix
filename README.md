@@ -10,7 +10,7 @@ Please leave a ⭐ as motivation if you liked the implementation 😄
 
 
 ## Demo
-![Demo](/public/assets/demo.gif)
+![Demo](https://github.com/shaloofsaleem/Nextflix/blob/main/28.08.2023_23.34.34_REC.png)
 <br />
 <br />
 
